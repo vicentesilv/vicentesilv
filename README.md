@@ -52,6 +52,14 @@
     <div class="table-responsive">
       <table class="table table-borderless">
         <tr>
+           <td>
+            <a href="https://git.io/streak-stats">
+              <img 
+                src="https://streak-stats.demolab.com?user=vicentesilv&theme=radical&hide_border=true" 
+                alt="GitHub Streak"
+              >
+            </a>
+          </td>
           <td>
             <img 
               src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesilv&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" 
