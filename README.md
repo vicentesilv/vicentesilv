@@ -55,7 +55,7 @@
            <td>
             <a href="https://git.io/streak-stats">
               <img 
-                src="https://streak-stats.demolab.com?user=vicentesilv&theme=radical&hide_border=true" 
+                src="https://streak-stats.demolab.com?user=vicentesilv&theme=windows-dark&hide_border=true" 
                 alt="GitHub Streak"
               >
             </a>
