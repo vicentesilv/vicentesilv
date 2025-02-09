@@ -39,6 +39,7 @@
         <img src="https://img.shields.io/badge/flutter-54c0f4?logo=flutter&logoColor=000" alt="flutter">
         <img src="https://img.shields.io/badge/c sharp-purple?logo=c#&logoColor=000" alt="c#">
         <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=000" alt="mongodb">
+        <img src="https://img.shields.io/badge/laravel-fb503b?logo=laravel&logoColor=000" alt="laravel">
         <img src="https://img.shields.io/badge/.net-purple?logo=.net&logoColor=000" alt=".net">
     </p>
     <h2>🖥️ <strong>sistemas operativos usados</strong></h2>
