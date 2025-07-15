@@ -6,8 +6,6 @@
     <p> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">    
         <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=000" alt="TypeScript">
-        <img src="https://img.shields.io/badge/html-orange?logo=html5&logoColor=000" alt="html">    
-        <img src="https://img.shields.io/badge/css-2965f1?logo=css3&logoColor=000" alt="css">    
         <img src="https://img.shields.io/badge/angular-red?logo=angular&logoColor=000" alt="angulart"> 
         <img src="https://img.shields.io/badge/react-61DBFB?logo=react&logoColor=000" alt="react">
         <img src="https://img.shields.io/badge/express-yellow?logo=express&logoColor=000" alt="express">  
@@ -32,11 +30,16 @@
         <img src="https://img.shields.io/badge/mariadb-000000?logo=mariadb&logoColor=fff" alt="mariadb">
         <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=000" alt="sqlite">
     </p>
+     <hr>
+    <h2>🖥️ <strong>lenguajes multiplataforma</strong></h2>
+    <p>
+        <img src="https://img.shields.io/badge/flutter-54c0f4?logo=flutter&logoColor=000" alt="flutter">
+         <img src="https://img.shields.io/badge/react native-54c0f4?logo=react&logoColor=000" alt="flutter">
+    </p>
     <hr>
     <h2>🖥️ <strong>tecnologias en aprendizaje</strong></h2>
     <p>
         <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=000" alt="docker">
-        <img src="https://img.shields.io/badge/flutter-54c0f4?logo=flutter&logoColor=000" alt="flutter">
         <img src="https://img.shields.io/badge/c sharp-purple?logo=c#&logoColor=000" alt="c#">
         <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=000" alt="mongodb">
         <img src="https://img.shields.io/badge/laravel-fb503b?logo=laravel&logoColor=000" alt="laravel">
@@ -46,6 +49,7 @@
     <p>
         <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=000" alt="linux">
         <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=000" alt="windows">
+          <img src="https://img.shields.io/badge/mac-0078D6?logo=macos&logoColor=000" alt="mac">
     </p>
     <hr>
     <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
