@@ -89,9 +89,9 @@ Participación en la migración de un sistema escolar monolítico a una arquitec
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vicentesilv&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesilv&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS)
+| Estadísticas Generales | Racha de Commits | Lenguajes Más Usados |
+|:----------------------:|:----------------:|:--------------------:|
+| ![Vicente Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicentesilv&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=vicentesilv&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesilv&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS) |
 
 </div>
 
@@ -103,7 +103,7 @@ Participación en la migración de un sistema escolar monolítico a una arquitec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentesilv)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vicentesilv)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicentesilv@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vicentesilval@gmail.com)
 
 *"El código es poesía en movimiento"* ✨
 
