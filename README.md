@@ -89,8 +89,8 @@ Participación en la migración de un sistema escolar monolítico a una arquitec
 
 <div align="center">
 
-| Estadísticas Generales | Racha de Commits | Lenguajes Más Usados |
-|:----------------------:|:----------------:|:--------------------:|
+| Racha de Commits | Lenguajes Más Usados |
+|:----------------:|:--------------------:|
 | ![Vicente Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicentesilv&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=vicentesilv&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesilv&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS) |
 
 </div>
