@@ -89,9 +89,9 @@ Participación en la migración de un sistema escolar monolítico a una arquitec
 
 <div align="center">
 
-| Racha de Commits | Lenguajes Más Usados |
-|:----------------:|:--------------------:|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=vicentesilv&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats) | ![Top Langs](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentesilv&show_icons=true&theme=transparent)) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=vicentesilv&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesilv&layout=compact&theme=radical&card_width=445&langs_count=8&locale=es&hide=CSS)
 
 </div>
 
