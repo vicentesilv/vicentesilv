@@ -91,8 +91,7 @@ Participación en la migración de un sistema escolar monolítico a una arquitec
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vicentesilv&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesilv&layout=compact&theme=radical&card_width=445&langs_count=8&locale=es&hide=CSS)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vicentesilv?cardType=level&theme=github-dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 ---
