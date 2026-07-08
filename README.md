@@ -21,10 +21,6 @@ Desarrollador multiplataforma con aproximadamente **un año y medio de experienc
 
 Empresa dedicada a la venta de refacciones para transportes móviles. Responsable del desarrollo de sistema de gestión, control y logística de inventario y entrega de productos.
 
-### 👨‍💻 con un ex maestro y desarrollador en solemti
-**Desarrollador en Prácticas** | *Febrero 2023 - Julio 2023*
-
-Participación en la migración de un sistema escolar monolítico a una arquitectura de microservicios, como parte de las prácticas profesionales para titulación técnica.
 
 ---
 
